@@ -7,8 +7,8 @@ t = 0
 s = []
 for i in range(1, 21):
     s.append(b / a)
-    t=b
-    b=a+b
-    a=t
-print(s,'长度为{0}'.format(len(s)))
+    t = b
+    b = a + b
+    a = t
+print(s, '长度为{0}'.format(len(s)))
 print('总和为{0}'.format(sum(s)))

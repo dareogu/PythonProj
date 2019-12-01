@@ -8,18 +8,16 @@ Created on 2018年5月5日
 
 import random
 
-number=random.randint(0,300)
+number = random.randint(0, 300)
 for i in range(10):
-    guess=int(input('Please enter an integer:'))
-    if guess==number:
+    guess = int(input('Please enter an integer:'))
+    if guess == number:
         print('you are right, the number is', number)
         break
-    elif guess> number:
+    elif guess > number:
         print('your number is higher, please reenter an integer!')
     else:
         print('your number is lower, please reenter an integer!')
 else:
     print("game over!haha!")
 print('number is ', number)
-    
-

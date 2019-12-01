@@ -10,14 +10,14 @@ Created on 2018年5月8日
 '''
 import sys
 
-#当前可用的属性和方法列表
+# 当前可用的属性和方法列表
 print(dir())
-#sys模块中可用的属性和方法列表
+# sys模块中可用的属性和方法列表
 print(dir('sys'))
-#sys模块的说明文档
+# sys模块的说明文档
 print(sys.__doc__)
 
-if __name__ =='__main__':
+if __name__ == '__main__':
     print('This program is being run by itself')
 else:
     print('This program is being imported')

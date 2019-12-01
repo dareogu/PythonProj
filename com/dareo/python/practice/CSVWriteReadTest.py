@@ -11,7 +11,7 @@ import csv
 file1 = open('csv_demo.csv', 'w')
 spamwriter = csv.writer(file1, delimiter=',')
 spamwriter.writerow(['aaa', 'bbb', 'ccc'])
-  
+
 file1.close()
 
 # 读CSV

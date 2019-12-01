@@ -8,15 +8,15 @@ Created on 2018年5月5日
 @contact:    njhmwx@163.com
 
 '''
-i=0
+i = 0
 while True:
-    s=input('s--->')
-    if s=='quit':
+    s = input('s--->')
+    if s == 'quit':
         break
-    if len(s)<3:
+    if len(s) < 3:
         print('sorry!')
-        continue  #跳出当前循环，继续下次循环
-    i+=1
+        continue  # 跳出当前循环，继续下次循环
+    i += 1
     print('length of the string is ', len(s))
 print('i=', i)
 print('done!')
