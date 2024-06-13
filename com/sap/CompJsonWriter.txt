@@ -1,0 +1,801 @@
+{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P1',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P2',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P3',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P4',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P5',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P6',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P7',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P8',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P9',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P10',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P11',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P12',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P13',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P14',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P15',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P16',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P17',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P18',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P19',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P20',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P21',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P22',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P23',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P24',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P25',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P26',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P27',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P28',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P29',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P30',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P31',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P32',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P33',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P34',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P35',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P36',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P37',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P38',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P39',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P40',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P41',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P42',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P43',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P44',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P45',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P46',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P47',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P48',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P49',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P50',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P51',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P52',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P53',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P54',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P55',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P56',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P57',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P58',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P59',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P60',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P61',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P62',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P63',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P64',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P65',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P66',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P67',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P68',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P69',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P70',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P71',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P72',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P73',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P74',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P75',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P76',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P77',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P78',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P79',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P80',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P81',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P82',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P83',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P84',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P85',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P86',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P87',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P88',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P89',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P90',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P91',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P92',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P93',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P94',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P95',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P96',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P97',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P98',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P99',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },{
+    "__metadata": {
+      "uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1990-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P100',externalCode='CompL2_1')"
+    },
+    "cust_picklistfield": "PK1",
+    "cust_fofield": "location1",
+    "cust_gofield": "GO1",
+    "cust_translatablefield_en_US": "trans1"
+  },
