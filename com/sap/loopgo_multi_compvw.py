@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 
-str = '''{
+s = '''{
     "__metadata": {
         "uri": "cust_XAF19281BasicFullPurgePerf(effectiveStartDate=datetime'1998-01-01T00:00:00',externalCode='P%d')"
     },
@@ -146,7 +146,7 @@ str = '''{
 for i in range(1, 10, 1):
     pass
     n = (i % 5) + 1
-    print(str % (i, i, n, i, i, i, i, i, i, i, i, i, i, i))
+    print(s % (i, i, n, i, i, i, i, i, i, i, i, i, i, i))
 
 # for i in range(1, 11):
 #     #te = {"uri": "cust_XAF19281CompL2(cust_XAF19281BasicFullPurgePerf_effectiveStartDate=datetime'1998-01-01T00:00:00',cust_XAF19281BasicFullPurgePerf_externalCode='P%d',externalCode='compL2_%d')"}

@@ -11,7 +11,5 @@ import random
 '''
 
 a = ['a', 'g', 'b', 'f', 't', 'e']
-
 random.shuffle(a)
-
 print(a)

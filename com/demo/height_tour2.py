@@ -9,7 +9,7 @@
 '''
 
 
-def heighttour(hei, cou):
+def heigh_tour(hei, cou):
     print('总高度为：', hei)
     tour = hei
     hei /= 2
@@ -22,4 +22,4 @@ def heighttour(hei, cou):
             print('总距离：{0},第{1}次反弹高度：{2}'.format(tour, i, hei))
 
 
-heighttour(100.0, 1019)
+heigh_tour(100.0, 1019)

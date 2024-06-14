@@ -3,11 +3,11 @@
 
 a = input('请输入一个数：\n')
 
-len = len(a)
+length = len(a)
 flag = True
 
-for i in range(int(len / 2)):
-    if a[i] != a[len - 1 - i]:
+for i in range(int(length / 2)):
+    if a[i] != a[length - 1 - i]:
         flag = False
         break
 if flag:
