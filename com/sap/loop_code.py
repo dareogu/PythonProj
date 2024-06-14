@@ -13,7 +13,7 @@ s = '''%d
 %d
 '''
 
-file = open("LoopCode.txt", "w")
+file = open("loop_code.txt", "w")
 for t in range(1, 1001, 1):
     pass
     i = t % 10 + 1

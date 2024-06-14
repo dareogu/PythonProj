@@ -163,7 +163,7 @@ s = '''
     ]
   },'''
 
-file = open("MultiLevelCompJson.txt", "w")
+file = open("multilevel_comp.txt", "w")
 for i in range(1, 1001, 1):
     pass
     result = s % (i, i, i, i, i)

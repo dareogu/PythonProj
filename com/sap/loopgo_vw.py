@@ -34,7 +34,7 @@ s = '''
     }]
 },'''
 
-file = open("LoopGoJsonWithVW.txt", "w")
+file = open("loopgo_vw.txt", "w")
 for i in range(1, 1001, 1):
     pass
     n = ((i - 1) % 5) + 1

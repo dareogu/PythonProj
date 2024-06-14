@@ -1,0 +1,2500 @@
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1911-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German11"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German11"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US11"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR11"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本11"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国11"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1912-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German12"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German12"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US12"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR12"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本12"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国12"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1913-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German13"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German13"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US13"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR13"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本13"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国13"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1914-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German14"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German14"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US14"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR14"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本14"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国14"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1915-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German15"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German15"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US15"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR15"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本15"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国15"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1916-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German16"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German16"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US16"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR16"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本16"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国16"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1917-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German17"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German17"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US17"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR17"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本17"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国17"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1918-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German18"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German18"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US18"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR18"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本18"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国18"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1919-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German19"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German19"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US19"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR19"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本19"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国19"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1920-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German20"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German20"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US20"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR20"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本20"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国20"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1921-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German21"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German21"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US21"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR21"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本21"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国21"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1922-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German22"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German22"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US22"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR22"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本22"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国22"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1923-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German23"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German23"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US23"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR23"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本23"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国23"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1924-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German24"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German24"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US24"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR24"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本24"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国24"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1925-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German25"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German25"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US25"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR25"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本25"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国25"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1926-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German26"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German26"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US26"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR26"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本26"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国26"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1927-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German27"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German27"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US27"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR27"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本27"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国27"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1928-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German28"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German28"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US28"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR28"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本28"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国28"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1929-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German29"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German29"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US29"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR29"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本29"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国29"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1930-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German30"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German30"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US30"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR30"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本30"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国30"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1931-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German31"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German31"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US31"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR31"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本31"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国31"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1932-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German32"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German32"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US32"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR32"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本32"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国32"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1933-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German33"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German33"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US33"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR33"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本33"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国33"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1934-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German34"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German34"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US34"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR34"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本34"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国34"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1935-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German35"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German35"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US35"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR35"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本35"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国35"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1936-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German36"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German36"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US36"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR36"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本36"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国36"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1937-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German37"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German37"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US37"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR37"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本37"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国37"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1938-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German38"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German38"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US38"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR38"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本38"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国38"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1939-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German39"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German39"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US39"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR39"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本39"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国39"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1940-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German40"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German40"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US40"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR40"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本40"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国40"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1941-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German41"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German41"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US41"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR41"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本41"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国41"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1942-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German42"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German42"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US42"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR42"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本42"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国42"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1943-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German43"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German43"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US43"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR43"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本43"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国43"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1944-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German44"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German44"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US44"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR44"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本44"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国44"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1945-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German45"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German45"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US45"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR45"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本45"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国45"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1946-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German46"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German46"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US46"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR46"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本46"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国46"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1947-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German47"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German47"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US47"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR47"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本47"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国47"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1948-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German48"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German48"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US48"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR48"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本48"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国48"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1949-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German49"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German49"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US49"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR49"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本49"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国49"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1950-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German50"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German50"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US50"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR50"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本50"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国50"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1951-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German51"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German51"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US51"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR51"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本51"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国51"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1952-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German52"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German52"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US52"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR52"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本52"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国52"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1953-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German53"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German53"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US53"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR53"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本53"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国53"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1954-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German54"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German54"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US54"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR54"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本54"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国54"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1955-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German55"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German55"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US55"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR55"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本55"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国55"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1956-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German56"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German56"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US56"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR56"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本56"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国56"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1957-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German57"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German57"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US57"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR57"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本57"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国57"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1958-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German58"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German58"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US58"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR58"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本58"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国58"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1959-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German59"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German59"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US59"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR59"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本59"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国59"
+            }
+        ]
+    },
+{
+        "__metadata": {
+            "uri": "odata/v2/cust_SUPTForUserBasedWF(effectiveStartDate=datetime'1960-01-01T00:00:00',externalCode='admin1')"
+        },
+        "externalCode": "admin1",
+        "externalNameTranslationTextNav": [
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('defaultValue')"
+                },
+                "locale": "defaultValue",
+                "value": "German60"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('de_DE')"
+                },
+                "locale": "de_DE",
+                "value": "German60"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('en_GB')"
+                },
+                "locale": "en_GB",
+                "value": "US60"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('fr_FR')"
+                },
+                "locale": "fr_FR",
+                "value": "FrFR60"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('ja_JP')"
+                },
+                "locale": "ja_JP",
+                "value": "你好日本60"
+            },
+            {
+                "__metadata": {
+                    "uri": "odata/v2/MDFLocalizedValue('zh_CN')"
+                },
+                "locale": "zh_CN",
+                "value": "你好中国60"
+            }
+        ]
+    },

@@ -85,7 +85,7 @@ s = '''  {
     "cust_translatablefield_en_US": "trans1"
   },'''
 
-file = open("MultiCompJson.txt", "w")
+file = open("multi_comp.txt", "w")
 for i in range(1901, 2001, 1):
     pass
     result = s % (i, i, i, i, i, i, i, i, i, i)

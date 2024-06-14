@@ -11,7 +11,7 @@ s = '''{
     "cust_translatablefield_en_US": "trans1"
   },'''
 
-file = open("CompJsonWriter.txt", "w")
+file = open("comp_writer.txt", "w")
 for i in range(1, 101, 1):
     pass
     result = s % (i)

@@ -53,7 +53,7 @@ s = '''{
     },
 '''
 
-file = open("MultiLocaleJson.txt", "w")
+file = open("multi_locale_json.txt", "w")
 for i in range(11, 61):
     pass
     result = s % (i, i, i, i, i, i, i)

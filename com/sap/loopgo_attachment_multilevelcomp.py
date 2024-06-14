@@ -71,7 +71,7 @@ s = ''' {
     "externalCode": "I%d"
   },'''
 
-file = open("LoopGoWithVWAttachmentMultiLevelComp.txt", "w")
+file = open("loopgo_attachment_multilevelcomp.txt", "w")
 for i in range(1, 501, 1):
     pass
     n = ((i - 1) % 5) + 1

@@ -1228,7 +1228,7 @@ s = '''
     ]
   },'''
 
-file = open("MultiDateCompJson.txt", "w")
+file = open("multi_date_comp.txt", "w")
 for i in range(2001, 2101, 1):
     pass
     n = ((i - 1) % 5) + 1

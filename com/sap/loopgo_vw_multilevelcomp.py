@@ -184,7 +184,7 @@ s = '''
     }]
 },'''
 
-file = open("LoopGoWithVWMultiLevelComp.txt", "w")
+file = open("loopgo_vw_multilevelcomp.txt", "w")
 for i in range(1, 1001, 1):
     pass
     n = ((i - 1) % 5) + 1

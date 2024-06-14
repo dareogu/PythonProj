@@ -8,7 +8,7 @@ C%d
 C%d
 '''
 
-file = open("LoopCode2.txt", "w")
+file = open("loop_code2.txt", "w")
 for i in range(1, 2001):
     pass
     result = s % (i, i, i, i, i)

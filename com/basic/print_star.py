@@ -1,4 +1,4 @@
-#!/usr/bin/selenium
+#!/usr/local/bin/python3.8
 # -*- coding: UTF-8 -*-
 
 from sys import stdout

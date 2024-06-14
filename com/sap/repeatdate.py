@@ -63,7 +63,7 @@ s = '''1/1/19%d
 1/1/19%d
 '''
 
-file = open("RepeatDate.txt", "w")
+file = open("repeatdate.txt", "w")
 for i in range(1, 1051):
     pass
     result = s % (i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i, i,

@@ -47,7 +47,7 @@ s = '''
     ]
   },'''
 
-file = open("MultiLoopGoInMultiLevelComp.txt", "w")
+file = open("multilevel_comp_loopgo.txt", "w")
 for i in range(1, 501, 1):
     pass
     n = (i % 5) + 1

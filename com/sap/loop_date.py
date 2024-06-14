@@ -4,7 +4,7 @@
 s = '''1/1/200%d
 '''
 
-file = open("LoopDate.txt", "w")
+file = open("loop_date.txt", "w")
 for i in range(1, 5025, 1):
     pass
     j = (i - 1) % 5

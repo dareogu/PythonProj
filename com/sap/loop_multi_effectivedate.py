@@ -304,7 +304,7 @@ s = '''{
     }]
 },'''
 
-file = open("LoopMultiEffDateJson.txt", "w")
+file = open("loop_multi_effectivedate.txt", "w")
 for i in range(2001, 2101, 1):
     pass
     n = ((i - 1) % 5) + 1
