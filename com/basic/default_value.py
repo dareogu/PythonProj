@@ -33,13 +33,13 @@ eat('chocolate')  # 缺省值fruit取默认值apple
 eat('icecream', 'banana')
 
 
-def printValues(a, b=5, c=10):
+def print_values(a, b=5, c=10):
     print('a is', a, 'and b is', b, 'and c is', c)
 
 
-printValues(3, 7)  # a is 3 and b is 7 and c is 10
-printValues(25, c=24)  # a is 25 and b is 5 and c is 24
-printValues(c=50, a=100)  # a is 100 and b is 5 and c is 50
+print_values(3, 7)  # a is 3 and b is 7 and c is 10
+print_values(25, c=24)  # a is 25 and b is 5 and c is 24
+print_values(c=50, a=100)  # a is 100 and b is 5 and c is 50
 
 
 def hi():
