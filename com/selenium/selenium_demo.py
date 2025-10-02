@@ -2,7 +2,6 @@ from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-
 def open_browser():
     driverService = webdriver.ChromeService(executable_path=r"..\webdriver\chromedriver.exe", port=2190)
     driver = webdriver.Chrome(service=driverService)

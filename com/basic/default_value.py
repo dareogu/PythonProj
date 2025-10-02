@@ -10,7 +10,6 @@ Created on 2018年5月6日
 @author: Dareo_Gu
 '''
 
-
 def changeLocalValue(x):
     # global x  申明x为全局变量，不是局部变量
     print('x is', x)
