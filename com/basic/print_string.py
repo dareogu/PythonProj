@@ -18,3 +18,5 @@ delimiter = '****'  # 分隔符
 country = ['China', 'Russia', 'India', 'Brazil']
 print(delimiter.join(country))  # China****Russia****India****Brazil
 print(name.upper())  # 转换成大写
+
+print('fdkjkjkjjk', end='*') #print with specific end
