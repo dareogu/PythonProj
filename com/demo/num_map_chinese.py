@@ -32,5 +32,5 @@ while flag:
         uppercase = ''.join(fs)  # 列表向字符串的转换
     # print uppercase.encode('gbk')
     print(uppercase)
-    print('\n')
-    print(uppercase.encode('gbk'))
+    #print('\n')
+    #print(uppercase.encode('gbk'))
