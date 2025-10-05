@@ -5,7 +5,7 @@ from openpyxl import load_workbook
 
 warnings.simplefilter(action='ignore', category=DeprecationWarning)  #忽略DeprecationWarning
 
-book = load_workbook("Account.xlsx")  # 得到Excel文件的book对象，实例化对象
+book = load_workbook("../data/Account.xlsx")  # 得到Excel文件的book对象，实例化对象
 
 sheet0 = book.worksheets[0]  # 通过sheet索引获得sheet对象
 

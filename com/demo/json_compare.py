@@ -37,8 +37,8 @@ def jsonpatch_compare(json_a, json_b):
 
 a = {"name": "yanan", "pro": {"sh": "shandong", "city": ["zibo", "weifang"]}}
 b = {"name": "Yanan", "pro": {"sh": "shandong", "town": ["taian", "weifang"]}}
-c = load_json('json_c.json')
-d = load_json('json_d.txt')
+c = load_json('../data/json_c.json')
+d = load_json('../data/json_d.txt')
 
 # 对比不同
 # {'dictionary_item_added': [root['pro']['town']], 'dictionary_item_removed': [root['pro']['city']], 'values_changed': {"root['name']": {'new_value': 'Yanan', 'old_value': 'yanan'}}}
