@@ -1,0 +1,70 @@
+[
+	{
+		"externalCode": "admin1",
+		"index": 0,
+		"age": 22,
+		"category": "a",
+		"default": "",
+		"externalNameTranslationTextNav": [
+			{
+				"locale": "",
+				"value": "German11"
+			},
+			{
+				"locale": "zh_CN",
+				"value": "你好中国11"
+			}
+		]
+	},
+	{
+		"externalCode": "admin2",
+		"index": 5,
+		"age": 42,
+		"category": "b",
+		"default": "admin2",
+		"externalNameTranslationTextNav": [
+			{
+				"locale": "ja_JP",
+				"value": ""
+			},
+			{
+				"locale": "zh_CN",
+				"value": "你好中国12"
+			}
+		]
+	},
+	{
+		"externalCode": "admin3",
+		"index": 14,
+		"age": 15,
+		"category": "b",
+		"default": null,
+		"externalNameTranslationTextNav": [
+			{
+				"locale": "defaultValue",
+				"value": "German13"
+			},
+			{
+				"locale": "de_DE",
+				"value": "German13"
+			}
+		]
+	},
+	{
+		"externalCode": "admin4",
+		"index": 33,
+		"age": 33,
+		"category": "b",
+		"default": true,
+		"externalNameTranslationTextNav": [
+			{
+				"locale": "en_GB",
+				"value": "US13"
+			},
+			{
+				"locale": "fr_FR",
+				"value": "FrFR13"
+			}
+		]
+	}
+]
